@@ -1,0 +1,78 @@
+/* 
+.hindex{
+    background-color: cadetblue;
+    font-family: 'Baloo 2', cursive;
+    border-style: solid;
+    border-radius: 10px;
+}
+.hhelp{
+    background-color:rgb(92, 116, 52);
+    font-family: 'Baloo 2', cursive;
+    border-style: solid;
+    border-radius: 10px;
+}
+.habout{
+    background-color:darkorange;
+    font-family: 'Baloo 2', cursive;
+    border-style: solid;
+    border-radius: 10px;
+}
+.herror{
+    background-color:red;
+    font-family: 'Baloo 2', cursive;
+    border-style: solid;
+    border-radius: 10px;
+    color:white;
+} */
+
+body {
+    color:#333333;
+    font-family: 'Baloo 2', cursive;
+    max-width: 650px;
+    margin: auto;
+    padding: 0 16px;
+}
+
+footer{
+    background-color:lightgray;
+    padding:16px;
+    margin-top:16px;
+    color:#333333;
+    border-radius: 5px;
+    border-top: 1px solid #333333;
+
+}
+
+h3{
+    font-size: 64px;
+    margin-bottom: 16px;
+    margin-top:20px;
+}
+
+header{
+    margin-top: 10px;
+    margin-bottom: 48px;
+}
+
+header a{
+    color: #888888;
+    margin-right: 16px;
+    text-decoration: none;
+
+}
+img {
+    width:100px;
+}
+
+input{
+    border: 1px solid #cccccc;
+    padding:8px;
+}
+button{
+    cursor:pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color:white;
+    padding: 8px;
+
+}
